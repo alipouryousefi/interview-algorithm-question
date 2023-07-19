@@ -28,7 +28,7 @@ Compare your solution with the ones in the repository and analyze different appr
 Contribute by adding new algorithm questions, providing alternative solutions, or improving existing ones.
 
 README.md: A detailed explanation of the problem, constraints, and examples.<br/>
-solutions: Solutions to the problem in javascript.
+solutions: Solutions to the problem in javascript and typescript.
 
 Contributing<br/>
 Contributions to this repository are welcome! If you have additional algorithm questions, alternative solutions, or improvements, feel free to submit a pull request. Please make sure to follow the repository's guidelines and provide clear explanations in your contributions.
